@@ -1,0 +1,11 @@
+# Triangle LLM CODEOWNERS
+# All proprietary code requires approval from maintainers
+
+*                                           @TriangleOS/triangle-llm-maintainers
+docs/triangle-architecture.md                @TriangleOS/triangle-llm-maintainers
+docs/triangle-deployment.md                  @TriangleOS/triangle-llm-maintainers
+LICENSE_TRIANGLE                             @TriangleOS/triangle-llm-maintainers
+scripts/sign_model.py                        @TriangleOS/triangle-llm-maintainers
+scripts/generate_weights.py                  @TriangleOS/triangle-llm-maintainers
+TRIANGLE_LLM.md                              @TriangleOS/triangle-llm-maintainers
+requirements-triangle.txt                    @TriangleOS/triangle-llm-maintainers
